@@ -1,0 +1,37 @@
+.signin {
+    margin-left: 350px;
+}
+
+.signin h1{
+    color: blue;
+    border-bottom: 2px solid blue;
+    width: 275px;
+    padding-bottom: 5px;
+}
+
+.signin form input {
+    margin-left: 10px;
+    padding: 3px 40px;
+    border-radius: 10px solid blue;
+}
+
+.signin_button1 {
+    margin-left: 90px;
+    padding: 3px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 1px solid grey;
+    border: none;
+    cursor: pointer;   
+}
+
+.signin_button2 {
+    margin-left: 90px;
+    padding: 3px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 1px solid grey;
+    border: none;
+    cursor: pointer;   
+    margin-top: 20px;
+}

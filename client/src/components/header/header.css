@@ -1,0 +1,45 @@
+.header {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding:   50px 70px;
+    
+}
+.profile small {
+    color: orange;
+    font-size: 10px;
+    
+}
+.profile h2 {
+    margin-top: 50px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+
+.header_wrapper {
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial;
+    font-size: small;
+    letter-spacing: 1px;
+}
+
+.header_wrapper_left h5 {
+    border-bottom: 3px solid orange;
+    padding-bottom: 10px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+
+.header_wrapper_center h5 {
+    border-bottom: 3px solid orange;
+    padding-bottom: 10px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+.header_wrapper-right {
+    margin-top: 70px;
+}
